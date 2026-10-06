@@ -1,0 +1,12 @@
+# Žurnālfails un lietotāju augšupielādētie faili - nelikt GitHub
+logs/*.log
+uploads/*
+!uploads/.htaccess
+
+# Redaktoru un sistēmas faili
+.vs/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
