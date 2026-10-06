@@ -177,8 +177,6 @@ uzdevumi/
 ├── config/config.php          # DB pieslēgums un konstantes
 ├── database/
 │   ├── schema.sql             # Pilna datubāzes izveide
-│   ├── migration_v2.sql       # Atjauninājums v1 -> v2
-│   └── migration_v3.sql       # Atjauninājums v2 -> v3
 ├── app/
 │   ├── core/                  # Karkass
 │   │   ├── Database.php       #   PDO savienojums
