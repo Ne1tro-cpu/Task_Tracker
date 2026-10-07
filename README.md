@@ -172,7 +172,7 @@ Sagatavošanas lapā atzīmējot **Pievienot demo datus**, tiek izveidoti divi k
 ## Projekta struktūra
 
 ```
-uzdevumi/
+Task_Tracker/
 ├── index.php                  # Front controller + maršrutētājs
 ├── config/config.php          # DB pieslēgums un konstantes
 ├── database/
